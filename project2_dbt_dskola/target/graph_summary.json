@@ -1,0 +1,1 @@
+{"_invocation_id": "ec63e6bf-7245-4416-9ef2-1ab9207ab516", "linked": {"0": {"name": "model.project2_dbt_dskola.datamart_monthly_supplier_gross_revenue", "type": "model"}, "1": {"name": "model.project2_dbt_dskola.datamart_monthly_best_employee", "type": "model"}, "2": {"name": "model.project2_dbt_dskola.datamart_monthly_supplier_category_sold", "type": "model"}}}

@@ -1,0 +1,12 @@
+project2_dbt_dskola:
+  outputs:
+    dev:
+      dbname: project2_dbt
+      host: 172.27.159.86
+      pass: ilhamganteng
+      port: 5432
+      schema: public
+      threads: 1
+      type: postgres
+      user: postgres
+  target: dev
